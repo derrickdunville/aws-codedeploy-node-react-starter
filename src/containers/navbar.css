@@ -1,0 +1,25 @@
+.navbar {
+  min-height: 60px;
+  margin-bottom: 0px;
+  border: none;
+  border-radius: 0px;
+  background: transparent;
+}
+.navbar > .container {
+  width: 100%;
+  /*padding-right: 0px;*/
+  padding-left: 25px;
+}
+.navbar-brand {
+  height: unset;
+  padding: 5px;
+}
+.navbar-brand.active > a > img {
+}
+.navbar-header > li {
+  list-style-type: none;
+}
+.navbar-toggle {
+  margin-top: 13px;
+  margin-bottom: 13px;
+}
